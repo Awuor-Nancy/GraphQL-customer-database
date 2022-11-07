@@ -1,0 +1,48 @@
+ {
+
+ "customers": [
+    {
+      "id": "1",
+      "name": "Angie Graham",
+      "email": "angie@gmail.com",
+      "age": 21
+    },
+    {
+        "id": "2",
+        "name": "Jhon Whick",
+        "email": "jhon@gmail.com",
+        "age": 12
+    },
+    {
+        "id": "3",
+        "name": "Adriana Mune",
+        "email": "adriana@gmail.com",
+        "age":52
+    },
+    {
+        "id": "4",
+        "name": "Virginia corie",
+        "email": "corie@gmail.com",
+        "age": 32
+    },
+    {
+        "id": "5",
+        "name": "Lucak Morey",
+        "email": "morey@gmail.com",
+        "age": 22
+    },
+    {
+        "id": "6",
+        "name": "Lucasi Heaven",
+        "email": "heaven@gmail.com",
+        "age": 40
+    },
+    {
+        "id": "7",
+        "name": "Malaika Gucci",
+        "email": "guci@gmail.com",
+        "age": 23
+    }
+  ]
+    
+}

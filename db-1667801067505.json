@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Angie Graham",
+      "email": "angie@gmail.com",
+      "age": 21
+    },
+    {
+      "id": "2",
+      "name": "Jhon Whick",
+      "email": "jhon@gmail.com",
+      "age": 12
+    },
+    {
+      "id": "3",
+      "name": "Adriana Mune",
+      "email": "adriana@gmail.com",
+      "age": 52
+    },
+    {
+      "id": "4",
+      "name": "Virginia corie",
+      "email": "corie@gmail.com",
+      "age": 32
+    }
+  ]
+}
